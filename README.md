@@ -58,6 +58,7 @@ Evaluation: Accuracy, Precision, Recall, F1-score + confusion matrices
 
 ### Contributors
 ·  Main contributor: Yu Ma
+
 ·  Supervisor: Dr Martyn Parker
 
 
